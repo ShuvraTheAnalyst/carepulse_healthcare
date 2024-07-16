@@ -5,10 +5,15 @@ A healthcare patient management application that allows patients to easily regis
 ❄Tech Stack
 
   Next.js
+  
   Appwrite
+  
   Typescript
+  
   TailwindCSS
+  
   ShadCN
+  
   Twilio
 
 🔋 Features
